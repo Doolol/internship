@@ -1,0 +1,4 @@
+c:\Users\epermyakova\documents\visual studio 2015\Projects\hello\CommonLib\bin\Debug\CommonLib.dll
+c:\Users\epermyakova\documents\visual studio 2015\Projects\hello\CommonLib\bin\Debug\CommonLib.pdb
+c:\Users\epermyakova\documents\visual studio 2015\Projects\hello\CommonLib\obj\Debug\CommonLib.dll
+c:\Users\epermyakova\documents\visual studio 2015\Projects\hello\CommonLib\obj\Debug\CommonLib.pdb

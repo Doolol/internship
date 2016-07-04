@@ -1,0 +1,14 @@
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\hello.exe.config
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\hello.exe
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\hello.pdb
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\obj\Debug\hello.exe
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\obj\Debug\hello.pdb
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\CommonLib.dll
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\CommonLib.pdb
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\Database.dll
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\EntityFramework.dll
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\Database.pdb
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\EntityFramework.xml
+c:\users\epermyakova\documents\visual studio 2015\Projects\hello\hello\bin\Debug\EntityFramework.SqlServer.xml
